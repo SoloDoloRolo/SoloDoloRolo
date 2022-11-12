@@ -1,13 +1,12 @@
 # Hello Everyone! My Name is Solomon 👋 
 
 
-## I'm a 
-- 🔭 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+## I'm a Computer Scinece Engineering Technology Major @ UToledo
+- 🔭 Jack of all trades, master of a few! 🤣
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking for an internship to gain the skills needed to excel!
+- 🥅 2022 Goals: Learn more about HTML, Game Development, and Hardware Engineering
+- ⚡ Fun fact: I love to game, listen to music, and make streaming videos!
 ### Connect with me:
 
 
