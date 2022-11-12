@@ -1,8 +1,38 @@
-### Hello Everyone! My Name is Solomon 👋 
+# Hello Everyone! My Name is Solomon 👋 
 
 
+## I'm a 
+- 🔭 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+
+### Connect with me:
 
 
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/@solomander#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@solomander#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/solomon-bryant#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/solomon-bryant#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/@solomander)
+
+---
 
 
 ### Languages and Tools:
@@ -27,6 +57,12 @@
 
 
 
+<details>
+  <summary>:zap:SoloDoloRolo's GitHub Stats</summary>
+
+  <img align="left" alt="SoloDoloRolo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SoloDoloRolo&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 
 
