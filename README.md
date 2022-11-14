@@ -4,7 +4,7 @@
 
 
 
-## I'm a Computer Scinece Engineering Technology Major @ UToledo 📓
+## I'm a Computer Science Engineering Technology Major @ UToledo 📓
 
 - 🔭 Jack of all trades, master of a few 🧠 
 - 🌱 I’m currently learning everything that I can fit in with coursework 
