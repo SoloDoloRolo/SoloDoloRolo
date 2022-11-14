@@ -11,7 +11,7 @@
 - 🥔 Current focus is: JavaScript for Fullstack Development, Machine Learning in Python utilizing TensorFlow and PyTorch
 - 🎣 I’m looking for an internship to gain the skills needed to excel in Software Enigneering to become a Game Dev!
 - 🥅 2022 Goals: Learn more about Game Development, and Software Integration with Hardware Engineering
-- ⚡ Fun fact: I love to game, listen to music, and make streaming videos!
+- ⚡ Fun fact: I love to game (_Bethesda Specifically_) , listen to music, and make streaming videos!
 
 
 ![fnv-fallout](https://user-images.githubusercontent.com/56006260/201495526-35f13d8a-7a07-4adb-a547-0f1c742c27b1.gif)
