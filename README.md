@@ -1,15 +1,16 @@
 [![Latest YouTube Videos](https://github.com/SoloDoloRolo/SoloDoloRolo/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/SoloDoloRolo/SoloDoloRolo/actions/workflows/youtube-workflow.yml)
 
-# Hello Everyone! My Name is Solomon 👋 
+# Hello Everyone! My Name is Solomon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 
 
 ## I'm a Computer Science Engineering Technology Major @ UToledo 📓
 
 - 🔭 Jack of all trades, master of a few 🧠 
-- 🌱 I’m currently learning everything that I can fit in with coursework 
-- 👯 I’m looking for an internship to gain the skills needed to excel!
-- 🥅 2022 Goals: Learn more about HTML, Game Development, and Hardware Engineering
+- 🌱 I’m currently learning everything that I can fit in with coursework
+- 🥔 Current things include but not limited are: JavaScript for Fullstack Development, Machine Learning in Python utilizing TensorFlow and PyTorch
+- 🎣 I’m looking for an internship to gain the skills needed to excel in Software Enigneering to become a Game Dev!
+- 🥅 2022 Goals: Learn more about Game Development, and Software Integration with Hardware Engineering
 - ⚡ Fun fact: I love to game, listen to music, and make streaming videos!
 
 
