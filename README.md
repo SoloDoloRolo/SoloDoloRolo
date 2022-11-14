@@ -8,7 +8,7 @@
 
 - 🔭 Jack of all trades, master of a few 🧠 
 - 🌱 I’m currently learning everything that I can fit in with coursework
-- 🥔 Current things include but not limited are: JavaScript for Fullstack Development, Machine Learning in Python utilizing TensorFlow and PyTorch
+- 🥔 Current focus is: JavaScript for Fullstack Development, Machine Learning in Python utilizing TensorFlow and PyTorch
 - 🎣 I’m looking for an internship to gain the skills needed to excel in Software Enigneering to become a Game Dev!
 - 🥅 2022 Goals: Learn more about Game Development, and Software Integration with Hardware Engineering
 - ⚡ Fun fact: I love to game, listen to music, and make streaming videos!
