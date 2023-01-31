@@ -6,10 +6,10 @@
 
 ## I'm a Computer Science Engineering Technology Major @ UToledo 📓
 
-- 🔭 Jack of all trades, master of a few 🧠 
+- 🔭 A Student mindmelder, friend to all! 🧠 
 - 🌱 I’m currently learning everything that I can fit in with coursework
 - 🥔 Current focus is: Machine Learning in Python utilizing PyTorch and Rougelike Game Development
-- 🎣 I’m looking for an internship to gain the skills needed to excel in Software Enigneering to become a Game Dev!
+- 🎣 I’m looking for an internship to gain the skills needed to excel in Software Engineering to become a Game Dev!
 - 🥅 2022 Goals: Learn more about Game Development, and Software Integration with Hardware Engineering
 - ⚡ Fun fact: I love to game (_Bethesda Specifically_) , listening to music, and streaming videos!
 
