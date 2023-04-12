@@ -1,4 +1,3 @@
-[![Latest YouTube Videos](https://github.com/SoloDoloRolo/SoloDoloRolo/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/SoloDoloRolo/SoloDoloRolo/actions/workflows/youtube-workflow.yml)
 
 # Hello Everyone! My Name is Solomon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
