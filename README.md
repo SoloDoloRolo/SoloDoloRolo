@@ -5,12 +5,12 @@
 
 ## I'm a Computer Science Engineering Technology Major @ UToledo 📓
 
-- 🔭 A Student mindmelder, friend to all! 🧠 
-- 🌱 I’m currently learning everything that I can fit in with coursework
-- 🥔 Current focus is: Machine Learning in Python utilizing PyTorch and Rougelike Game Development
-- 🎣 I’m looking for an internship to gain the skills needed to excel in Software Engineering to become a Game Dev!
-- 🥅 2022 Goals: Learn more about Game Development, and Software Integration with Hardware Engineering
-- ⚡ Fun fact: I love to game (_Bethesda Specifically_) , listening to music, and streaming videos!
+- 🔭 A mind melder, friend to all! 🧠 
+- 🌱 I’m currently studying Unity Game Design and working with 
+- 🥔 Current focus is: Machine Learning in Python utilizing PyTorch and Roguelike Game Development
+- 🎣 I'm heading into my first internship at Collin's Aerospace! 
+- 🥅 2023 Goals: Consistency on all of the projects that I have lined up. Spending at least 4 hours a week on them.
+- ⚡ Fun fact: I am a huge fan of gaming whether it's an indie game or a AAA title.
 
 
 ![fnv-fallout](https://user-images.githubusercontent.com/56006260/201495526-35f13d8a-7a07-4adb-a547-0f1c742c27b1.gif)
