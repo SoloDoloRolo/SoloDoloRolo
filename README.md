@@ -7,7 +7,7 @@
 
 - 🔭 A mind melder, friend to all! 🧠 
 - 🌱 I’m currently studying Unity Game Design and working with 
-- 🥔 Current focus is: Machine Learning in Python utilizing PyTorch and Roguelike Game Development
+- 🥔 Current focus is: Game Development with a hope to work on A.I. with NPCs in games.
 - 🎣 I'm heading into my first internship at Collin's Aerospace! 
 - 🥅 2023 Goals: Consistency on all of the projects that I have lined up. Spending at least 4 hours a week on them.
 - ⚡ Fun fact: I am a huge fan of gaming whether it's an indie game or a AAA title.
