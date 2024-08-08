@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently studying Unity Game Design and Emulation.
 - 🥔 Current focus is: Game Development with a hope to work on A.I. for NPCs in games.
-- 🎣 I'm heading into my first internship at Collin's Aerospace! 
+- Coming up next is going to be Building my own game engine or raytracing engine!
+- 🎣 I'm currently working at Collin's Aerospace as a Software Engineer! 
 - 🥅 2023 Goals: Consistency on all of the projects that I have lined up. Spending at least 4 hours a week on them.
-- ⚡ Fun fact: I am a huge fan of gaming whether it's indie games or a AAA titles.
-
+- ⚡ Fun fact: I am a huge fan of medieval games like chivalry 2
 
 
 ![fnv-fallout](https://user-images.githubusercontent.com/56006260/201495526-35f13d8a-7a07-4adb-a547-0f1c742c27b1.gif)
@@ -51,14 +51,6 @@
 
 ## GitHub Activity Monitor 📺 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-  
-</details>
-  
   
 <details>
   <summary>:zap:SoloDoloRolo's GitHub Stats</summary>
