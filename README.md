@@ -5,12 +5,13 @@
 
 ## I'm a Computer Science Engineering Technology Major @ UToledo 📓
 
-- 🌱 I’m currently studying Unity Game Design and Emulation.
+- 🌱 I’m currently studying Unity Game Design
 - 🥔 Current focus is: Game Development with a hope to work on A.I. for NPCs in games.
-- Coming up next is going to be Building my own game engine or raytracing engine!
-- 🎣 I'm currently working at Collin's Aerospace as a Software Engineer! 
-- 🥅 2023 Goals: Consistency on all of the projects that I have lined up. Spending at least 4 hours a week on them.
-- ⚡ Fun fact: I am a huge fan of medieval games like chivalry 2
+- Coming up next is going to be Building my own raytracing engine!
+- 🎣 I'm currently in my final semester of classes 
+- 🥅 2024 Goals: Consistency on all of the projects that I have lined up. Spending at least 4 hours a week on them.
+- ⚡ Fun fact: I am a huge fan of medieval games like chivalry 2 but the list of games i've played is endless
+- I'm currently binge watching Bojack Horseman 🐴 
 
 
 ![fnv-fallout](https://user-images.githubusercontent.com/56006260/201495526-35f13d8a-7a07-4adb-a547-0f1c742c27b1.gif)
@@ -19,33 +20,9 @@
 
 ### Connect with me!:
 
-
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/@solomander#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/@solomander#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/solomon-bryant#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/solomon-bryant#gh-dark-mode-only)
-
-# Languages and Tools:
-
-### Icons coming soon!
-
-
-<br />
-<br />
-
-
----
-
-### 📷 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/@solomander)
-
----
 
 
 
