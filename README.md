@@ -5,13 +5,12 @@
 
 ## I'm a Computer Science Engineering Technology Major @ UToledo 📓
 
-- 🌱 I’m currently studying Unity Game Design
-- 🥔 Current focus is: Game Development with a hope to work on A.I. for NPCs in games.
-- Coming up next is going to be Building my own raytracing engine!
-- 🎣 I'm currently in my final semester of classes 
-- 🥅 2024 Goals: Consistency on all of the projects that I have lined up. Spending at least 4 hours a week on them.
-- ⚡ Fun fact: I am a huge fan of medieval games like chivalry 2 but the list of games i've played is endless
-- I'm currently binge watching Bojack Horseman 🐴 
+- 🌱 I’m currently working on a new music embedded device
+- 🥔 Current focus is: embedded software for midi devices
+- 🎣 I finally graduated and im Jobless!!! 
+- 🥅 2025 Goals: Get a job, have fun, make cool things
+- ⚡ Fun fact: I dont have a job! 
+-  Watch Bojack Horseman 🐴 its a great show, looking to start a new show soon 
 
 
 ![fnv-fallout](https://user-images.githubusercontent.com/56006260/201495526-35f13d8a-7a07-4adb-a547-0f1c742c27b1.gif)
